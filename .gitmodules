@@ -1,3 +1,6 @@
 [submodule "home"]
 	path = home
 	url = git@github.com:aimkobe/home.git
+[submodule "pro2"]
+	path = pro2
+	url = https://github.com/aimkobe/pro2.git
